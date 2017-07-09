@@ -1,9 +1,9 @@
 # hello-world
 
-Some edits here. Just another Sunday late evening. Plus something.
+Some edits here. Just another Sunday evening. Plus something.
 
 Byebye weekend.
 
 An addition by roihu.
 
-SOme new from egonzale.
+Some new from egonzale.
