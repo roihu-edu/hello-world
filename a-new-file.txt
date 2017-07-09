@@ -1,3 +1,5 @@
 I am a new text file, created by egonzale.
 
-THATS's it NOW.
+THATS'S IT NOW.
+
+Great file.
